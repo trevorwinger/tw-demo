@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/trevorwinger.github.io/tw-demo/static/css/main.0c0e26ba.chunk.css",
+    "main.js": "/trevorwinger.github.io/tw-demo/static/js/main.d222fb51.chunk.js",
+    "main.js.map": "/trevorwinger.github.io/tw-demo/static/js/main.d222fb51.chunk.js.map",
+    "runtime-main.js": "/trevorwinger.github.io/tw-demo/static/js/runtime-main.014ab1f2.js",
+    "runtime-main.js.map": "/trevorwinger.github.io/tw-demo/static/js/runtime-main.014ab1f2.js.map",
+    "static/js/2.2bbacc38.chunk.js": "/trevorwinger.github.io/tw-demo/static/js/2.2bbacc38.chunk.js",
+    "static/js/2.2bbacc38.chunk.js.map": "/trevorwinger.github.io/tw-demo/static/js/2.2bbacc38.chunk.js.map",
+    "static/js/3.65f66c29.chunk.js": "/trevorwinger.github.io/tw-demo/static/js/3.65f66c29.chunk.js",
+    "static/js/3.65f66c29.chunk.js.map": "/trevorwinger.github.io/tw-demo/static/js/3.65f66c29.chunk.js.map",
+    "index.html": "/trevorwinger.github.io/tw-demo/index.html",
+    "static/css/main.0c0e26ba.chunk.css.map": "/trevorwinger.github.io/tw-demo/static/css/main.0c0e26ba.chunk.css.map",
+    "static/js/2.2bbacc38.chunk.js.LICENSE.txt": "/trevorwinger.github.io/tw-demo/static/js/2.2bbacc38.chunk.js.LICENSE.txt",
+    "static/media/goldy.147abe14.gif": "/trevorwinger.github.io/tw-demo/static/media/goldy.147abe14.gif",
+    "static/media/goldy_hockey.be65b85d.png": "/trevorwinger.github.io/tw-demo/static/media/goldy_hockey.be65b85d.png",
+    "static/media/old-goldy.83250c0d.jpg": "/trevorwinger.github.io/tw-demo/static/media/old-goldy.83250c0d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.014ab1f2.js",
+    "static/js/2.2bbacc38.chunk.js",
+    "static/css/main.0c0e26ba.chunk.css",
+    "static/js/main.d222fb51.chunk.js"
+  ]
+}
